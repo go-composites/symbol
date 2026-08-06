@@ -1,6 +1,6 @@
 module github.com/go-composites/symbol
 
-go 1.25.0
+go 1.26.4
 
 require (
 	github.com/onsi/ginkgo/v2 v2.31.0
